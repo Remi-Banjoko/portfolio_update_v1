@@ -36,7 +36,7 @@ a:hover {
   text-align: center;
 }
 
-.nav {
+.navi {
   display: flex;
   justify-content: space-around;
   font-weight: 700;
@@ -125,7 +125,7 @@ header .profile-image {
   display:inline-block;
   position: relative;
   background: url('images/aura.gif') no-repeat center  ;
-  background-size: auto center;
+  background-size: auto ;
   transform: scale(1.25);
 } 
 
